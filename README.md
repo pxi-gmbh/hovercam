@@ -1,3 +1,19 @@
+# this repository is closed
+
+we have moved this repository to [https://codeberg.org/pxi_lab/pipfy](https://codeberg.org/pxi_lab/pipfy)
+this repo on github will not recieve further updates
+please go to https://codeberg.org/pxi_lab/pipfy to post issues or check for updates
+
+
+
+
+
+
+
+
+
+
+
 # pipfy.webcam & pipfy.captions
 
 a web app to create a floating webcam image or floating subtitles on your desktop: picture-in-picture for your webcam and speech-to-text in a browser window. hence the name.
